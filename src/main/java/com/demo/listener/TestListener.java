@@ -31,9 +31,9 @@ public class TestListener implements ITestListener {
 //Project key should be, Short name ex: BS
 
 
-            JiraServiceProvider JiraServiceProvider = new JiraServiceProvider("https://vythaku.atlassian.net",
+            JiraServiceProvider JiraServiceProvider = new JiraServiceProvider("https://didiashu.atlassian.net",
 
-                    "raj.lokhande@aqmtechnologies.com", "H1a3h0ttFO9C0OX9qwjrD8E8", "YYY");
+                    "raj.lokhande@aqmtechnologies.com", "NDOCGa6lRGJvrojmUgJS816B", "RBL_New");
 
 
 
